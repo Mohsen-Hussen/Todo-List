@@ -85,7 +85,6 @@ body {
     padding: 10px;
     font-size: 18px;
     letter-spacing: 1px;
-    cursor: pointer;
 }
 
 .todo-container .tasks-content > span:not(:last-child) {
